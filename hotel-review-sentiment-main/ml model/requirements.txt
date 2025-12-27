@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+tensorflow
+nltk
+numpy
+pandas
+scikit-learn
+h5py

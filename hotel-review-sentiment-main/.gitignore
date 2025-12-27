@@ -1,0 +1,80 @@
+# ===========================
+# Python / FastAPI Backend
+# ===========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+myenv/
+env/
+venv/
+
+# FastAPI / Uvicorn logs
+*.log
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Model files & artifacts
+*.h5
+*.pkl
+*.pickle
+*.joblib
+
+# Saved TensorFlow model folders
+saved_model/
+checkpoint/
+checkpoints/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# ===========================
+# Node / React / Vite Frontend
+# ===========================
+
+# Dependencies
+node_modules/
+
+# Local build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Vite cache
+.vite/
+vite.config.ts.timestamp-*
+
+# Editor cache
+.DS_Store
+
+
+# ===========================
+# IDE / Editor files
+# ===========================
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Misc
+*.swp
+*.swo
+Thumbs.db
